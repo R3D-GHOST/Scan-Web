@@ -10,4 +10,7 @@ sudo apt-get install whatweb
 
 # Inciar / Start
 python3 scanner.py
+
+
 Un saludo familia
+Creado por R3D-GHOST
